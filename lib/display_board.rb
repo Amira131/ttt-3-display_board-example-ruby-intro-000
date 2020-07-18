@@ -10,23 +10,7 @@ end
 
 display_board
 
-puts "turn 1 happened"
-puts " O |   |   "
-puts "-----------"
-puts "   |   |   "
-puts "-----------"
-puts "   |   |   "
-
-puts "turn 2 happened"
-puts " O |   |   "
-puts "-----------"
-puts "   | X |   "
-puts "-----------"
-puts "   |   |   "
-
-puts "turn 3 happened"
-puts " O |   |   "
-puts "-----------"
-puts "   | X |   "
-puts "-----------"
-puts "   | O |   "
+puts "Welcome To Tic Tac Toe!"
+display_board
+display_board
+display_board
