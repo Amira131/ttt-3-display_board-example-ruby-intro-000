@@ -12,5 +12,11 @@ display_board
 
 puts "Welcome To Tic Tac Toe!"
 display_board
+
+
+puts "Welcome To Tic Tac Toe!"
 display_board
+
+
+puts "Welcome To Tic Tac Toe!"
 display_board
